@@ -1,13 +1,13 @@
 ### Hi こんにちは👋
-- 🔭 Sub Leader at [株式会社ソフテム](https://www.softem.co.jp/), focusing Customizing B2B Software 
-- 💼 Previously at [Blipcom](https://www.blipcom.com/about_us/) - Jakarta as Software Engineer, focusing customize python software for Indonesia Enterprise & SMEs. 
-      Earlier at [Tigernix](https://www.tigernix.com/about-us) - Singapore as Software Engineer, focusing on customing odoo software for Singapore Enterprise & SMEs.
-- 💻 Mostly Doing backend development for website in various of languange and framework like python - flask, java - spring boot, and PHP Laravel. 
-- 👀 Learning LLM and AI
-- 🚀 Delivered Projects [Singapore Computer Society](https://wwww.scs.org.sg/) - [Octo Merchant CIMB](https://www.cimbniaga.co.id/id/personal/digital-banking/octo-merchant) - [Djatgo](https://djatgo.id/)
-- 📫 Email dev.charlieaprilianto@gmail.com
-- 🟦 [LinkedIn](https://www.linkedin.com/in/charlie-aprilianto/)
-- ☕ Feel free to contact me via Linkedln or email 
-- Speak 🇮🇩 🇯🇵 
+- 🔭 Sub Leader at [株式会社ソフテム](https://www.softem.co.jp/) where my primary focus is on customizing B2B software and government systems in Japan.
+- 💼 Prior to my current role, I worked as a Software Engineer at [Blipcom](https://www.blipcom.com/about_us/) in Jakarta specializing in customized Python software solutions for enterprises and SMEs in Indonesia.
+      Earlier in my career, I was a Software Engineer at [Tigernix](https://www.tigernix.com/about-us) in Singapore, where I focused on customizing Odoo software for enterprises and SMEs in Singapore.
+- 💻 My expertise lies in backend development for websites, utilizing a variety of languages and frameworks, including Python (Flask), Java (Spring Boot), and PHP (Laravel).
+- 👀 I am currently expanding my knowledge in Large Language Models (LLMs) and Artificial Intelligence (AI).
+- 🚀 I have successfully delivered projects for organizations including the [Singapore Computer Society](https://wwww.scs.org.sg/) - [Octo Merchant CIMB](https://www.cimbniaga.co.id/id/personal/digital-banking/octo-merchant) - [Djatgo](https://djatgo.id/)
+- 📫 You can reach me via email at dev.charlieaprilianto@gmail.com
+- 🟦 Connect with me on [LinkedIn](https://www.linkedin.com/in/charlie-aprilianto/)
+- ☕ Please feel free to contact me through LinkedIn or email.
+- Language Proficiencies: Indonesian 🇮🇩 and Japanese 🇯🇵
 
 Thank you for visiting 🙌 
