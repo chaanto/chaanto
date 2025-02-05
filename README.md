@@ -9,4 +9,5 @@
 - 🟦 [LinkedIn](https://www.linkedin.com/in/charlie-aprilianto/)
 - ☕ Feel free to contact me via Linkedln or email 
 - Speak 🇮🇩 🇯🇵 
+
 Thank you for visiting 🙌 
