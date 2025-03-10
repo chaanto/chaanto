@@ -8,6 +8,6 @@
 - 📫 You can reach me via email at dev.charlieaprilianto@gmail.com
 - 🟦 Connect with me on [LinkedIn](https://www.linkedin.com/in/charlie-aprilianto/)
 - ☕ Please feel free to contact me through LinkedIn or email.
-- Language Proficiencies: Indonesian 🇮🇩 and Japanese 🇯🇵
+- Language Proficiencies: English Indonesian and Japanese
 
 Thank you for visiting 🙌 
