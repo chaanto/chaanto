@@ -2,7 +2,7 @@
 
 Self-taught engineer and continuous learner. I solve problems through code.
 
-- 💼 Working in Japan as a Backend Engineer, building the backend behind EV charging: charger protocols, telemetry and the APIs around them.
+- 💼 Working in Japan as a Backend Engineer, building the backend for EV Charging Infrastructure.
 - 💻 My work is backend development: Go today, with years of Python, and Java behind it.
 - 🔌 Currently Learning building games with Godot and learning how to design modular and scalable systems along the way with go.
 - 🗣️ Languages: English, Indonesian and Japanese.
